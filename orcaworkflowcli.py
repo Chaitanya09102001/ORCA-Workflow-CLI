@@ -11,7 +11,7 @@ import psutil
 import os
 import subprocess
 import orca_parser as op
-print("Welcome to CLI ORCA Workflow App\nDeveloper:\nCHAITANYA GADEKAR\nPlease read the manual created along to use this app fluently.")
+print("Welcome to CLI ORCA Workflow App\nDeveloper:\nCHAITANYA GADEKAR\nPlease read the README created along to use this app fluently.")
 input("Press ENTER to initiate >>>")
 global calculation_type
 global theory_level
